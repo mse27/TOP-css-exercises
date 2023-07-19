@@ -1,6 +1,6 @@
 .odd {
     background-color:#FF3373;
-    font-family: Verdana "DejaVu Sans", Sans-serif;
+    font-family: Verdana, "DejaVu Sans", Sans-serif;
 }
 
 #number2 {
@@ -8,12 +8,11 @@
     font-size:36px;
 }
 
-.odd.cooler {
+.cooler {
     font-size:24px;
 }
 
 #number4 {
     background-color:#AAFF00;
-    font-size:24px;
     font-weight:700;
 }
